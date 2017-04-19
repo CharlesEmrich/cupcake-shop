@@ -1,0 +1,9 @@
+.best {
+  text-decoration: overline underline;
+  text-decoration-color: red;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
